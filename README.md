@@ -7,8 +7,8 @@ Cyber Patriot Image Cleaners
 		* Run as Admin
 		* Run Through Checklist (1 - 5)
 
-	- Required Software
-		* Access To CMD Admin Perms
+		- Required Software
+			* Access To CMD Admin Perms
 
 	- Linux
 		- N / A
